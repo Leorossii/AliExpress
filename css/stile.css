@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#logo{
+    background-image: url(../img/aliexpress-logo.png);
+    width: 265px;
+    height: 80px;
+}
+.prodotti{
+    text-align: center;
+}
+.immagini{
+    border-bottom: 3px dotted grey;
+    padding: 15px;
+}
+.caratteristiche{
+    background-color: #fa6221;
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+#footer{
+    background-color: #e1190b;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+.imgfooter:hover{
+    border-bottom: 2px solid white;
+}
+#contenitoreform{
+    height: 800px;
+    background-color: #fa6221;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+td{
+    padding: 20px;
+}
